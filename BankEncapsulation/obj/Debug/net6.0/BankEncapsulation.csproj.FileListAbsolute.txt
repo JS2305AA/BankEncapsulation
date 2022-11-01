@@ -1,0 +1,5 @@
+C:\Users\npjt2\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\npjt2\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npjt2\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\npjt2\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.AssemblyInfo.cs
+C:\Users\npjt2\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.csproj.CoreCompileInputs.cache
